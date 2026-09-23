@@ -2,19 +2,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6D28D9&height=260&section=header&text=VM%20RAAGAV&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=54&descSize=17&descColor=C4B5FD" width="100%"/>
+<h1>VM RAAGAV</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
+<code>CSE Student</code> · <code>Developer</code> · <code>Builder</code> · <code>Hackathon Enthusiast</code>
 
-<br>
+<sub>Computer Science & Engineering @ Rajalakshmi Engineering College, Chennai</sub>
+
+<br><br>
 
 <a href="https://github.com/RAAGAV1218">
-  <img src="https://img.shields.io/badge/GITHUB-RAAGAV1218-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=10B981" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vmraagav">
-  <img src="https://img.shields.io/badge/LINKEDIN-vmraagav-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=10B981" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-‎-10B981?style=flat-square&labelColor=10B981" height="3" width="500"/>
 
 </div>
 
@@ -166,6 +172,21 @@ Databases
 Tools
 ├── Git
 ├── GitHub
-# 📫 Connect With Me <p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 ├── VS Code
 └── Streamlit
+```
+
+---
+
+<br>
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/RAAGAV1218">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=10B981" />
+  </a>
+  <a href="https://www.linkedin.com/in/vmraagav">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=10B981" />
+  </a>
+</p>
