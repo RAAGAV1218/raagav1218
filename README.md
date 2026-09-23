@@ -2,25 +2,19 @@
 
 <div align="center">
 
-<h1>VM RAAGAV</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=VM%20RAAGAV&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&descAlignY=62" width="100%"/>
 
-<code>CSE Student</code> · <code>Developer</code> · <code>Builder</code> · <code>Hackathon Enthusiast</code>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=CSE+Student+at+Rajalakshmi+Engineering+College;Building+Practical+Software+Projects;Backend+%26+Web+Development;Hackathon+Enthusiast" />
 
-<sub>Computer Science & Engineering @ Rajalakshmi Engineering College, Chennai</sub>
-
-<br><br>
+<br>
 
 <a href="https://github.com/RAAGAV1218">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vmraagav">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/-‎-10B981?style=flat-square&labelColor=10B981" height="3" width="500"/>
 
 </div>
 
@@ -184,9 +178,9 @@ Tools
 
 <p align="left">
   <a href="https://github.com/RAAGAV1218">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vmraagav">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
