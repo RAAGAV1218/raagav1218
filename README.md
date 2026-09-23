@@ -1,16 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,50:1E293B,100:0EA5E9&height=240&section=header&text=RAAGAV%20V%20M&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=65&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0369A1,100:06B6D4&height=250&section=header&text=RAAGAV%20V%20M&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=62&descSize=17" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARNING-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SOLVING-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/HACKING-EC4899?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Build.+Learn.+Solve.+Repeat.;Software+Engineering+%7C+Backend+%7C+AI;Hackathons+%7C+Projects+%7C+Problem+Solving" />
 </p>
 
 # Hey, I'm Raagav 👋
