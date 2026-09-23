@@ -8,20 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" />
 </p>
 
-<p align="center">
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-0F172A?style=for-the-badge&logo=code&logoColor=38BDF8" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### CSE Student • Developer • Builder • Hackathon Enthusiast
 
 I'm a Computer Science & Engineering student at **REC Chennai**, currently focused on building practical software projects and strengthening my foundations in programming, web development, backend systems, and AI.
@@ -49,28 +35,28 @@ I like turning ideas into working projects — especially projects that solve re
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
 </p>
 
 ### Frontend & Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
 </p>
+
+**Also working with:** Supabase
 
 ### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
@@ -98,12 +84,12 @@ The matching system considers multiple attributes including:
 
 **Category → Item Name → Color → Location → Description**
 
-<p align="center">
+🔗 **Live Demo:**
 
+<p align="center">
 <a href="https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
-
 </p>
 
 ---
