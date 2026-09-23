@@ -1,10 +1,24 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=RAAGAV%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=RAAGAV%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" /> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" /> </p>
+<p align="center">
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-0F172A?style=for-the-badge&logo=code&logoColor=38BDF8" />
+  </a>
+  <a href="#-connect-with-me">
+    <img src="https://img.shields.io/badge/Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 # Hey, I'm VM Raagav 👋
 
