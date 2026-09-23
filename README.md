@@ -1,24 +1,30 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,80:0369A1,100:06B6D4&height=260&section=header&text=RAAGAV%20V%20M&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=59&descSize=18" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/RAAGAV1218">
-    <img src="https://img.shields.io/badge/GitHub-RAAGAV1218-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vmraagav">
-    <img src="https://img.shields.io/badge/LinkedIn-vmraagav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RAAGAV%20V%20M&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
+
+<br><br>
+
+<a href="https://github.com/RAAGAV1218">
+  <img src="https://img.shields.io/badge/GitHub-RAAGAV1218-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vmraagav">
+  <img src="https://img.shields.io/badge/LinkedIn-vmraagav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+
+</div>
+
+<br>
+
 # Hey, I'm Raagav 👋
 
 ### CSE Student • Developer • Builder • Hackathon Enthusiast
