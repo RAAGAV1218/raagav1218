@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=20V%20M%RAAGAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=V%20M%20RAAGAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
