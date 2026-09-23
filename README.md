@@ -1,12 +1,12 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18&height=220&section=header&text=RAAGAV%20V%20M&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:06B6D4&height=260&section=header&text=RAAGAV%20V%20M&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=62&descSize=17" />
 </p>
 
 <p align="center">
-
-`C` · `Java` · `Python` · `JavaScript` · `Node.js` · `PostgreSQL` · `Supabase`
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Ideas+%E2%86%92+Projects;Exploring+Web+%26+Backend+Development;Learning+DSA+%7C+OOP+%7C+AI;Turning+Problems+Into+Solutions" />
+</p>
 
 </p>
 # Hey, I'm Raagav 👋
