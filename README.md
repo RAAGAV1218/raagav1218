@@ -1,13 +1,14 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0369A1,100:06B6D4&height=250&section=header&text=RAAGAV%20V%20M&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=62&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18&height=220&section=header&text=RAAGAV%20V%20M&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=65&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Build.+Learn.+Solve.+Repeat.;Software+Engineering+%7C+Backend+%7C+AI;Hackathons+%7C+Projects+%7C+Problem+Solving" />
-</p>
 
+`C` · `Java` · `Python` · `JavaScript` · `Node.js` · `PostgreSQL` · `Supabase`
+
+</p>
 # Hey, I'm Raagav 👋
 
 ### CSE Student • Developer • Builder • Hackathon Enthusiast
