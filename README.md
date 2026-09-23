@@ -2,9 +2,18 @@
 
 ### CSE Student • Developer • Builder • Hackathon Enthusiast
 
-I'm a Computer Science & Engineering student at **REC Chennai**, currently focused on building practical software projects and strengthening my foundations in programming, web development, backend systems, and AI.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=RAAGAV%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
+</p>
 
-I like turning ideas into working projects — especially projects that solve real problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" />
+</p>
 
 ---
 
@@ -26,28 +35,29 @@ I like turning ideas into working projects — especially projects that solve re
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
 </p>
 
 ### Frontend & Web
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
-
-**Also working with:** Supabase
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
@@ -55,6 +65,10 @@ I like turning ideas into working projects — especially projects that solve re
 # 🔥 Featured Projects
 
 ## 🔎 FindIt — Smart Campus Lost & Found
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 A smart campus platform designed to help students report, discover and match lost & found items.
 
@@ -75,12 +89,21 @@ The matching system considers multiple attributes including:
 
 **Category → Item Name → Color → Location → Description**
 
-🔗 **Live Demo:**
-https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/
+<p align="center">
+
+<a href="https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🛡️ AI-Powered Voice Cloning Impersonation Detection
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 **SIH 2026 — Problem Statement: SIH26104**
 
@@ -167,8 +190,11 @@ A practical software project combining Python, Streamlit, data processing and in
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -181,9 +207,17 @@ A practical software project combining Python, Streamlit, data processing and in
 
 ---
 
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -192,6 +226,12 @@ A practical software project combining Python, Streamlit, data processing and in
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=120&section=footer" />
+</p>
 
 </p>
 
