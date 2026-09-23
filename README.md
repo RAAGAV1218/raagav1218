@@ -1,23 +1,24 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=230&section=header&text=RAAGAV%20V%20M&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=60&descSize=19" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,80:0369A1,100:06B6D4&height=260&section=header&text=RAAGAV%20V%20M&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=59&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RAAGAV1218">
-    <img src="https://img.shields.io/badge/GitHub-RAAGAV1218-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vmraagav">
-    <img src="https://img.shields.io/badge/LinkedIn-vmraagav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-<br>
+<a href="https://github.com/RAAGAV1218">
+<img src="https://img.shields.io/badge/GitHub-RAAGAV1218-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vmraagav">
+<img src="https://img.shields.io/badge/LinkedIn-vmraagav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 # Hey, I'm Raagav 👋
 
