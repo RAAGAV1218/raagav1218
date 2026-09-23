@@ -2,30 +2,44 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RAAGAV%20V%20M&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header" width="100%"/>
+
+<table><tr><td>
+
+```
+┌──────────────────────────────────────────────┐
+│  $ whoami                                     │
+│  > VM Raagav                                  │
+│  $ role                                       │
+│  > CSE Student · Developer · Builder          │
+│  $ status                                     │
+│  > Shipping projects, chasing hackathons      │
+└──────────────────────────────────────────────┘
+```
+
+</td></tr></table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Strengthening+DSA+%26+OOP;Exploring+Practical+AI%2FML;Hackathon+Enthusiast" />
-
-<br><br>
-
 <a href="https://github.com/RAAGAV1218">
-  <img src="https://img.shields.io/badge/GitHub-RAAGAV1218-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-RAAGAV1218-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0F0C29" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/vmraagav">
-  <img src="https://img.shields.io/badge/LinkedIn-vmraagav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-vmraagav-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F0C29" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243E,50:302B63,100:0F0C29&height=90&section=footer" width="100%"/>
 
 </div>
 
 <br>
 
-# Hey, I'm Raagav 👋
+# Hey, I'm VM Raagav 👋
 
 ### CSE Student • Developer • Builder • Hackathon Enthusiast
 
