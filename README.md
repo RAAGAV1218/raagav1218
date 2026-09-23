@@ -1,24 +1,10 @@
 <!-- ========================= HEADER ========================= -->
 
-<div align="center">
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=RAAGAV%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=VM%20RAAGAV&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&descAlignY=62" width="100%"/>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=CSE+Student+at+Rajalakshmi+Engineering+College;Building+Practical+Software+Projects;Backend+%26+Web+Development;Hackathon+Enthusiast" />
-
-<br>
-
-<a href="https://github.com/RAAGAV1218">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vmraagav">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" /> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" /> </p>
 
 # Hey, I'm VM Raagav 👋
 
