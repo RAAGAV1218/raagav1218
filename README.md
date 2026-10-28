@@ -1,95 +1,75 @@
 <div align="center">
-  <img src="./liquid-glass-hero.svg" alt="V M Raagav — a liquid glass profile banner" width="100%" />
-  <p>
-    <a href="#-featured-work">Featured work</a> &nbsp;·&nbsp;
-    <a href="#-toolkit">Toolkit</a> &nbsp;·&nbsp;
-    <a href="#-say-hello">Say hello</a>
-  </p>
+  <img src="./liquid-glass-hero.svg" alt="V M Raagav — Computer Science student and builder" width="100%" />
+  <br />
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#currently-learning">Learning</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </div>
 
----
+<br />
 
-## 👋 Hey, I’m VM Raagav
+## About
 
-**Computer Science & Engineering student · developer · builder · hackathon enthusiast**
+I’m **VM Raagav**, a Computer Science & Engineering student at **Rajalakshmi Engineering College, Chennai**. I like building practical software that connects thoughtful user experiences with useful technology—from accessibility and campus tools to applied AI.
 
-I’m studying CSE at **Rajalakshmi Engineering College, Chennai**. I enjoy turning practical ideas into working software while building strong foundations in programming, web development, backend systems, and AI.
+| Focus | What I’m working with |
+|:--|:--|
+| **Core languages** | C · Java · Python · JavaScript |
+| **Web & data** | HTML · CSS · Node.js · Express · MySQL · PostgreSQL · Supabase |
+| **Build tools** | Git · GitHub · VS Code · Streamlit |
+| **Current focus** | DSA · OOP · backend development · problem-solving |
 
-<table>
-  <tr>
-    <td width="50%"><strong>🎓 Studying</strong><br />Computer Science & Engineering · REC Chennai</td>
-    <td width="50%"><strong>🧭 Interested in</strong><br />Useful products, practical AI/ML, and accessible technology</td>
-  </tr>
-  <tr>
-    <td><strong>⚡ Building with</strong><br />Python, Java, C, and JavaScript</td>
-    <td><strong>🗃️ Working with</strong><br />MySQL, PostgreSQL, and Supabase</td>
-  </tr>
-  <tr>
-    <td><strong>🧰 Everyday tools</strong><br />Git, GitHub, VS Code, and Streamlit</td>
-    <td><strong>🎯 Current focus</strong><br />DSA, OOP, problem-solving, and real-world projects</td>
-  </tr>
-</table>
-
-## 🛠️ Toolkit
-
-<div align="center">
-  <strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=c,java,python,js" alt="C, Java, Python, JavaScript" />
-  <br /><br />
-  <strong>Web & backend</strong><br />
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" alt="HTML, CSS, Node.js, Express" />
-  <br /><br />
-  <strong>Data & tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,vscode" alt="PostgreSQL, MySQL, Supabase, Git, GitHub, VS Code" />
-  <br />Also working with <strong>Streamlit</strong>
-</div>
-
-## 🚀 Featured work
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🦯 PathAhead</h3>
-      <p>An ESP32 and iPhone prototype exploring spoken obstacle awareness for people with visual impairment. Combines distance sensing, motion data, Bluetooth LE, and ElevenLabs voice cues.</p>
-      <p><strong>Built with:</strong> ESP32 · SwiftUI · Bluetooth LE · HC-SR04 · MPU6050 · ElevenLabs</p>
-      <p><a href="https://github.com/RAAGAV1218/PathAhead"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore PathAhead on GitHub" /></a></p>
+      <p>An ESP32-to-iPhone accessibility prototype exploring spoken obstacle awareness through distance sensing, motion data, Bluetooth LE, and ElevenLabs voice cues.</p>
+      <p><strong>ESP32 · SwiftUI · BLE · HC-SR04 · MPU6050 · ElevenLabs</strong></p>
+      <a href="https://github.com/RAAGAV1218/PathAhead">View project →</a><br />
       <sub>Early supervised prototype; not a replacement for a cane or mobility training.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 FindIt — Smart Campus Lost & Found</h3>
-      <p>A campus platform that helps students report, discover, and match lost and found items.</p>
-      <p><strong>Built with:</strong> Python · Streamlit · Pandas · CSV · SequenceMatcher</p>
-      <ul>
-        <li>Report and browse lost/found items; upload photos</li>
-        <li>Compare category, name, color, location, and description</li>
-        <li>Suggest likely matches using text similarity</li>
-      </ul>
-      <p><a href="https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open FindIt live demo" /></a></p>
+      <h3>🔎 FindIt</h3>
+      <p>A smart campus lost-and-found app for reporting items, browsing listings, and surfacing likely matches based on details such as category, color, place, and description.</p>
+      <p><strong>Python · Streamlit · Pandas · text similarity</strong></p>
+      <a href="https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/">Try the live demo →</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🛡️ AI-Powered Voice Cloning Impersonation Detection</h3>
-      <p><strong>SIH 2026 · Problem Statement SIH26104</strong></p>
-      <p>A cybersecurity concept exploring ways to detect and prevent impersonation attacks involving cloned or synthetic voices. Focus areas include voice-cloning detection, AI-based analysis, identity protection, real-time detection, and social-engineering prevention.</p>
+      <h3>🛡️ Voice-cloning impersonation detection</h3>
+      <p><strong>Smart India Hackathon 2026 · SIH26104</strong></p>
+      <p>A cybersecurity concept focused on detecting synthetic-voice impersonation and reducing risks from identity fraud and social engineering.</p>
     </td>
   </tr>
 </table>
 
-## 📚 What I’m learning
+## Toolkit
 
-| **Programming** | **Computer science** | **Development** |
-|:--|:--|:--|
-| C · Java · Python · JavaScript | Data structures & algorithms · OOP · databases · problem-solving | Web · backend · REST APIs · full-stack applications |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nodejs,express,postgres,mysql,supabase,git,github,vscode,streamlit&perline=8" alt="C, Java, Python, JavaScript, HTML, CSS, Node.js, Express, PostgreSQL, MySQL, Supabase, Git, GitHub, VS Code, and Streamlit" />
+</div>
 
-| **Data** | **Tools** |
-|:--|:--|
-| MySQL · PostgreSQL · Supabase | Git · GitHub · VS Code · Streamlit |
+## Currently learning
 
-## 🤝 Say hello
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><strong>Computer science</strong><br />Data structures · algorithms · OOP</td>
+      <td align="center" width="33%"><strong>Software engineering</strong><br />APIs · backend · full-stack apps</td>
+      <td align="center" width="33%"><strong>Building well</strong><br />Databases · problem-solving · accessible UX</td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://github.com/RAAGAV1218"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RAAGAV1218" /></a>
-<a href="https://www.linkedin.com/in/vmraagav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: vmraagav" /></a>
+## Connect
+
+I’m always glad to meet people building useful things and learn from new perspectives.
+
+[GitHub](https://github.com/RAAGAV1218) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vmraagav)
 
 <div align="center">
   <sub>Learning in public, one useful build at a time.</sub>
