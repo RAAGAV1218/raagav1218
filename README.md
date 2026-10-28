@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:0891B2&height=230&section=header&text=V%20M%20RAAGAV&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=IDEAS%20%E2%86%92%20BUILDS%20%E2%86%92%20IMPACT&descAlignY=60&descSize=18" alt="V M Raagav — ideas to builds to impact" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=760&lines=CSE+Student+at+REC+Chennai;Building+useful+web+and+software+projects;Exploring+backend%2C+databases+and+AI;Hackathons+%7C+Learning+by+building" alt="CSE student · building useful software · exploring backend and AI · hackathons" />
-  <br /><br />
-  <a href="#-featured-work"><img src="https://img.shields.io/badge/01%20%E2%80%A2%20FEATURED%20WORK-0891B2?style=for-the-badge" alt="Featured work" /></a>
-  <a href="#-toolkit"><img src="https://img.shields.io/badge/02%20%E2%80%A2%20TOOLKIT-4F46E5?style=for-the-badge" alt="Toolkit" /></a>
-  <a href="#-say-hello"><img src="https://img.shields.io/badge/03%20%E2%80%A2%20SAY%20HELLO-0F766E?style=for-the-badge" alt="Say hello" /></a>
+  <img src="./liquid-glass-hero.svg" alt="V M Raagav — a liquid glass profile banner" width="100%" />
+  <p>
+    <a href="#-featured-work">Featured work</a> &nbsp;·&nbsp;
+    <a href="#-toolkit">Toolkit</a> &nbsp;·&nbsp;
+    <a href="#-say-hello">Say hello</a>
+  </p>
 </div>
 
 ---
