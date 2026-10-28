@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./profile-hero-premium.svg" alt="V M Raagav — Computer Science student and builder" width="100%" />
   <br />
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#currently-learning">Learning</a> &nbsp;·&nbsp;
-  <a href="#connect">Connect</a>
+  <a href="#selected-work">🚀 Selected work</a> &nbsp;·&nbsp;
+  <a href="#toolkit">🧰 Toolkit</a> &nbsp;·&nbsp;
+  <a href="#currently-learning">📚 Learning</a> &nbsp;·&nbsp;
+  <a href="#connect">🤝 Connect</a>
 </div>
 
 <br />
