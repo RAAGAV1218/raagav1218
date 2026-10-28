@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">V M Raagav — liquid glass profile banner</title>
+  <desc id="desc">A luminous translucent glass panel with a cool violet and cyan glow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset=".52" stop-color="#101b33"/>
+      <stop offset="1" stop-color="#081b24"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx=".18" cy=".18" r=".75">
+      <stop stop-color="#9b8cff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#725cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx=".82" cy=".76" r=".78">
+      <stop stop-color="#56e4ed" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#29c5d8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".18"/>
+      <stop offset=".48" stop-color="#c9eaff" stop-opacity=".055"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".11"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity=".72"/>
+      <stop offset=".42" stop-color="#d6e6ff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#8af4ff" stop-opacity=".56"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#ffffff" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="16" result="blurred"/>
+      <feOffset dy="12"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".38"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="panelClip"><rect x="52" y="34" width="1096" height="302" rx="38"/></clipPath>
+  </defs>
+  <rect width="1200" height="370" rx="28" fill="url(#bg)"/>
+  <ellipse cx="270" cy="86" rx="310" ry="210" fill="url(#glowA)" filter="url(#blur)"/>
+  <ellipse cx="930" cy="280" rx="360" ry="220" fill="url(#glowB)" filter="url(#blur)"/>
+  <g opacity=".35" fill="none" stroke="#d8fbff">
+    <circle cx="1070" cy="82" r="26" stroke-opacity=".48"/>
+    <circle cx="1070" cy="82" r="42" stroke-opacity=".18"/>
+    <circle cx="143" cy="286" r="18" stroke-opacity=".32"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="52" y="34" width="1096" height="302" rx="38" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/>
+    <g clip-path="url(#panelClip)">
+      <path d="M72 43 Q350 25 635 43 T1138 40 L1138 78 Q850 55 590 73 T62 72Z" fill="url(#sheen)" opacity=".72"/>
+      <path d="M64 244 C250 185 360 280 540 226 S850 184 1136 236 L1136 340 L64 340Z" fill="#b6e9ff" opacity=".035"/>
+      <circle cx="1020" cy="110" r="128" fill="none" stroke="#e7fdff" stroke-opacity=".10" stroke-width="1"/>
+      <circle cx="1020" cy="110" r="154" fill="none" stroke="#e7fdff" stroke-opacity=".055" stroke-width="1"/>
+      <rect x="86" y="76" width="188" height="30" rx="15" fill="#ffffff" fill-opacity=".095" stroke="#ffffff" stroke-opacity=".22"/>
+      <circle cx="105" cy="91" r="4" fill="#73f4ee"/>
+      <text x="120" y="96" fill="#e3f7ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">REC CHENNAI  ·  CSE</text>
+      <text x="600" y="183" text-anchor="middle" fill="#f6fbff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="56" font-weight="720" letter-spacing="5">V M RAAGAV</text>
+      <text x="600" y="222" text-anchor="middle" fill="#d9e9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="500" letter-spacing="2.4">IDEAS  ·  BUILDS  ·  IMPACT</text>
+      <line x1="480" y1="247" x2="720" y2="247" stroke="#ffffff" stroke-opacity=".28"/>
+      <text x="600" y="281" text-anchor="middle" fill="#c5f9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="500" letter-spacing="2">DEVELOPER  ·  BUILDER  ·  HACKATHON ENTHUSIAST</text>
+      <circle cx="1100" cy="282" r="3" fill="#9af9ef"/>
+      <circle cx="1086" cy="295" r="2" fill="#ffffff" fill-opacity=".7"/>
+    </g>
+  </g>
+</svg>
