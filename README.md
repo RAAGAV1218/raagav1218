@@ -1,186 +1,107 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:12324A,100:16B8C6&height=205&section=header&text=V%20M%20RAAGAV&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=59&descSize=17" alt="V M Raagav — CSE student, developer, builder" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=V%20M%20RAAGAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP%26+AI" alt="Computer science student · practical projects · web and backend · hackathons · learning DSA, OOP and AI" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Building+Practical+Software+Projects;Exploring+Web+%26+Backend+Development;Hackathon+Enthusiast;Learning+DSA%2C+OOP+%26+AI" />
-</p>
-
-<p align="center">
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-0F172A?style=for-the-badge&logo=code&logoColor=38BDF8" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-# Hey, I'm VM Raagav 👋
-
-### CSE Student • Developer • Builder • Hackathon Enthusiast
-
-I'm a Computer Science & Engineering student at **REC Chennai**, currently focused on building practical software projects and strengthening my foundations in programming, web development, backend systems, and AI.
-
-I like turning ideas into working projects — especially projects that solve real problems.
+  <p>
+    <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Featured projects" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-0F172A?style=for-the-badge&logo=code&logoColor=67E8F9" alt="Tech stack" /></a>
+    <a href="#-connect-with-me"><img src="https://img.shields.io/badge/CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
+  </p>
+</div>
 
 ---
 
-# 🚀 About Me
+## Hey, I'm VM Raagav 👋
 
-* 🎓 CSE Student @ **Rajalakshmi Engineering College, Chennai**
-* 💻 Currently building projects with **Python, Java, C & JavaScript**
-* 🌐 Exploring **Web Development & Backend Development**
-* 🗄️ Working with **MySQL, PostgreSQL & Supabase**
-* 🤖 Interested in practical **AI/ML applications**
-* 🏆 Participating in **Hackathons & Technical Competitions**
-* 🔧 Comfortable working with **Git, GitHub, VS Code & Streamlit**
-* 📚 Currently improving my **DSA, OOP and problem-solving skills**
-* 🎯 Goal: Become a strong software engineer by building real-world products
+### CSE student · developer · builder · hackathon enthusiast
 
----
+I'm a Computer Science & Engineering student at **REC Chennai**, focused on building practical software and strengthening my foundations in programming, web development, backend systems, and AI. I like turning ideas into working projects—especially projects that solve real problems.
 
-<br>
+## 🚀 About me
 
-# 🛠️ Tech Stack
+| | |
+|:--|:--|
+| 🎓 **Education** | CSE student at **Rajalakshmi Engineering College, Chennai** |
+| 💻 **Building with** | Python, Java, C, and JavaScript |
+| 🌐 **Exploring** | Web development and backend development |
+| 🗄️ **Working with** | MySQL, PostgreSQL, and Supabase |
+| 🤖 **Interested in** | Practical AI/ML applications |
+| 🏆 **Taking part in** | Hackathons and technical competitions |
+| 🔧 **Tools** | Git, GitHub, VS Code, and Streamlit |
+| 📚 **Learning** | DSA, OOP, and problem-solving |
+| 🎯 **Goal** | Become a strong software engineer by building real-world products |
 
-### Languages
+## 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
-</p>
+<div align="center">
 
-### Frontend & Web
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,java,python,js" alt="C, Java, Python, JavaScript" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+**Frontend & web**  
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 
-### Backend & Databases
+**Backend & databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" alt="Node.js, Express, PostgreSQL, MySQL" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
-</p>
+Also working with **Supabase**
 
-**Also working with:** Supabase
+**Tools & platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" alt="Git, GitHub, VS Code, Streamlit" />
 
-### Tools & Platforms
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
-</p>
+## 🔥 Featured projects
 
----
+### 🔎 FindIt — Smart Campus Lost & Found
 
-<br>
+> A smart campus platform designed to help students report, discover, and match lost and found items.
 
-# 🔥 Featured Projects
+**Built with:** `Python` · `Streamlit` · `Pandas` · `CSV` · `SequenceMatcher`
 
-<br>
+- 📝 Report lost or found items
+- 🔍 Browse submitted reports
+- 🤖 Match lost and found items using similarity
+- 📷 Upload item images
+- 📊 Store data in CSV files
+- 🧠 Compare category, item name, color, location, and description
 
-## 🔎 FindIt — Smart Campus Lost & Found
-
-> A smart campus platform designed to help students report, discover and match lost & found items.
-
-### Tech Used
-
-`Python` `Streamlit` `Pandas` `CSV` `SequenceMatcher`
-
-### Features
-
-* 📝 Report lost or found items
-* 🔍 Browse submitted reports
-* 🤖 Smart matching between lost and found items
-* 📷 Image upload support
-* 📊 CSV-based data storage
-* 🧠 Similarity-based matching system
-
-The matching system considers multiple attributes including:
-
-**Category → Item Name → Color → Location → Description**
-
-<br>
-
-<p align="center">
+<div align="center">
   <a href="https://findit-6gguozwfarnm7mmpjyu7p6.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open FindIt live demo" />
   </a>
-</p>
+</div>
 
-<br>
+### 🛡️ AI-Powered Voice Cloning Impersonation Detection
 
----
+**SIH 2026 · Problem Statement SIH26104**
 
-<br>
+An AI-focused cybersecurity concept exploring how to detect and prevent impersonation attacks involving cloned or synthetic voices.
 
-## 🛡️ AI-Powered Voice Cloning Impersonation Detection
-
-**SIH 2026 — Problem Statement: SIH26104**
-
-> An AI-focused cybersecurity concept aimed at detecting and preventing impersonation attacks involving cloned or synthetic voices.
-
-### Focus Areas
-
-* 🎙️ Voice cloning detection
-* 🤖 AI-based analysis
-* 🔐 Identity protection
-* ⚡ Real-time detection
-* 🛡️ Social engineering & impersonation prevention
+**Focus areas:** voice-cloning detection · AI-based analysis · identity protection · real-time detection · social engineering and impersonation prevention.
 
 This project explores how AI can be used defensively against increasingly realistic synthetic audio attacks.
 
----
-
-<br>
-
-# 💻 What I'm Learning
+## 💻 What I'm learning
 
 ```text
-Programming
-├── C
-├── Java
-├── Python
-└── JavaScript
+Programming       Computer Science       Development
+├── C             ├── Data Structures     ├── Web Development
+├── Java          │   & Algorithms        ├── Backend Development
+├── Python        ├── Object-Oriented     ├── REST APIs
+└── JavaScript    │   Programming         └── Full-Stack Applications
+                  ├── Database Management
+                  └── Problem Solving
 
-Computer Science
-├── Data Structures & Algorithms
-├── Object-Oriented Programming
-├── Database Management
-└── Problem Solving
-
-Development
-├── Web Development
-├── Backend Development
-├── REST APIs
-└── Full-Stack Applications
-
-Databases
-├── MySQL
-├── PostgreSQL
-└── Supabase
-
-Tools
-├── Git
-├── GitHub
-├── VS Code
-└── Streamlit
+Databases         Tools
+├── MySQL         ├── Git
+├── PostgreSQL    ├── GitHub
+└── Supabase      ├── VS Code
+                  └── Streamlit
 ```
 
----
+## 📫 Connect with me
 
-<br>
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/RAAGAV1218">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vmraagav">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/RAAGAV1218"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RAAGAV1218" /></a>
+<a href="https://www.linkedin.com/in/vmraagav"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn: vmraagav" /></a>
