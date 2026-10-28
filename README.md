@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-hero-premium.svg" alt="V M Raagav — Computer Science student and builder" width="100%" />
+  <img src="./profile-hero-bold.svg" alt="V M Raagav — Computer Science student and builder" width="100%" />
   <br />
   <a href="#selected-work">🚀 Selected work</a> &nbsp;·&nbsp;
   <a href="#toolkit">🧰 Toolkit</a> &nbsp;·&nbsp;
