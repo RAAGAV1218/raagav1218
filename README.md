@@ -69,7 +69,11 @@ I’m **VM Raagav**, a Computer Science & Engineering student at **Rajalakshmi E
 
 I’m always glad to meet people building useful things and learn from new perspectives.
 
-[GitHub](https://github.com/RAAGAV1218) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vmraagav)
+<div align="center">
+  <a href="https://github.com/RAAGAV1218"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vmraagav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+</div>
 
 <div align="center">
   <sub>Learning in public, one useful build at a time.</sub>
